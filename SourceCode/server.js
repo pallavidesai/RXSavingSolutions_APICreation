@@ -1,6 +1,3 @@
-/**
- * Created by user on 23/10/2016.
- */
 var MongoClient = require('mongodb').MongoClient;
 var bodyParser = require("body-parser");
 var express = require('express');
